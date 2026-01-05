@@ -1,0 +1,4 @@
+id,name,email,location,is_active
+101,Sumit,sumitkumar@gmail.com,Delhi,True
+102,Rishu,rishurajput@gmail.com,Mumbai,False
+103,Aman,amansingh@gmail.com,Bangalore,True

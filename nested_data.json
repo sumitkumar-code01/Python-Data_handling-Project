@@ -1,0 +1,13 @@
+{
+  "user": {
+    "id": 1,
+    "name": "Sumit",
+    "email": "sumitkumar@gmail.com",
+    "address": {
+      "city": "Delhi",
+      "pincode": 843119
+    }
+  },
+  "roles": ["admin", "editor"],
+  "is_active": true
+}
